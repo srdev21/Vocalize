@@ -33,8 +33,8 @@ To run this project locally:
 
 ## 📸 Screenshots
 
+<img width="298" alt="Screenshot 2025-05-17 at 10 48 20 AM" src="https://github.com/user-attachments/assets/b4013a06-0229-4904-b858-94e9d3a7435f" />
 
-<img width="311" alt="Screenshot 2025-05-17 at 9 54 12 AM" src="https://github.com/user-attachments/assets/1cb4c651-3fc8-45ae-b298-25208e4cdcff" />
 <img width="298" alt="Screenshot 2025-05-17 at 10 49 19 AM" src="https://github.com/user-attachments/assets/d107642a-eb8a-47ab-9137-535c5a0c47c2" />
 
 
