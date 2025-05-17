@@ -47,6 +47,8 @@ To run this project locally:
 * **Material Components**
 
 ---
+## Apk file
+ get the app by following this link - https://drive.google.com/file/d/1lyrlmCUL1P2LH5wmF86y1tq13XMcePE4/view?usp=drive_link
 
 ## 📄 License
 
