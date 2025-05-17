@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="uiColor">#1D0A3E</color>
+    <color name="uiColorDeep">#0000FF</color>
+    <color name="dashboardByme">#FF3E00</color>
+
+    <color name="colorPrimary">#AD3814</color>
+    <color name="alert">#FF2500</color>
+    <color name="colorPlayer">#D0EBD9</color>
+    <color name="colorPrimaryDark">#E42605</color>
+    <color name="colorAccent">#2699FD</color>
+    <color name="qColor">#33D90E</color>
+    <color name="aColor">#FFE600</color>
+
+    <color name="redByme">#FF1717</color>
+    <color name="OnLight">#ffffff</color>
+    <color name="dark">#551400</color>
+    <color name="uiColordeep">#1B1B1B</color>
+    <color name="PrimaryLight">#FFD760</color>
+    <color name="ColorAccent">#F44336</color>
+    <color name="transparent">#68FFFFFF</color>
+    <color name="darkdashbord">#D5181F49</color>
+    <color name="lightBackground">#F4F7F9</color>
+    <color name="dashboard">#0D47A1</color>
+    <color name="teal_700">#018786</color>
+    <color name="red">#E53935</color>
+
+
+</resources>

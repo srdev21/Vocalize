@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vocalize</string>
+    <string name="open"></string>
+    <string name="close"></string>
+    <string name="delete_button_description">Delete</string>
+
+
+    <string name="yes">Yes</string>
+    <string name="messag">Are you sure you want to Exit</string>
+    <string name="tt">Cricket Mania</string>
+    <string name="star">Rate us⭐</string>
+    <string name="no">No</string>
+</resources>
